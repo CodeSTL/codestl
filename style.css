@@ -13,25 +13,21 @@
 #placeholder{
   text-align: center;
   position: absolute;
-  font-size: 150;
   margin: 0;
-  top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-family: 'Yesteryear', cursive;
   color: #FFFF;
   text-shadow: 2px 2px #000000;
 }
 
-#placeholdersub{
-  text-align: center;
-  position: absolute;
-  font-size: 50;
-  margin: 0;
+#main{
+  top: 40%;
+  font-size: 150;
+  font-family: 'Yesteryear', cursive;
+}
+
+#sub{
   top: 55%;
   left: 50%;
-  transform: translate(-50%, -50%);
   font-family: 'Poiret One', cursive;
-  color: #FFFF;
-  text-shadow: 2px 2px #000000;
 }
