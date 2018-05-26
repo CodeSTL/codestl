@@ -10,7 +10,7 @@
   background-image: url(https://upload.wikimedia.org/wikipedia/commons/a/aa/St._Louis_Gateway_Arch.jpg);
 }
 
-#placeholder{
+.placeholder{
   text-align: center;
   position: absolute;
   margin: 0;
